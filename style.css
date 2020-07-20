@@ -24,6 +24,7 @@ body {
 .center_buttons{
     margin:auto;
     display:block;
+    width: 300px;
 }
 form {
   text-align: center;
