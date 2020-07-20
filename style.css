@@ -25,3 +25,6 @@ body {
     margin:auto;
     display:block;
 }
+form {
+  text-align: center;
+}
